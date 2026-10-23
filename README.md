@@ -12,11 +12,13 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 ## Project overview
 
-- **Project name:** [Enter project name]
-- **Problem / purpose:** [Describe the engineering need]
-- **Team:** [Names and responsibilities]
-- **Status:** Planning
-- **Last updated:** [YYYY-MM-DD]
+- **Project name:** Iris Mechanism
+- **Problem / purpose:** An element that can control hole size equally on all sides by rotating. Used mostly as an element that controls how much light can enter the sensor in lens.
+- **Team:**
+-     Kasem Tintapura       6730050121 : Symbolic Math
+-     Thitinan Hanwinyanan  6730194921 : Simscape Multibody
+- **Status:** Symbolic Math
+- **Last updated:** 2026-10-23
 
 ## Repository structure
 
