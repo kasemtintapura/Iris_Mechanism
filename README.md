@@ -19,8 +19,8 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 - **Team:**
 -     Kasem Tintapura       6730050121 : Symbolic Math
 -     Thitinan Hanwinyanan  6730194921 : Simscape Multibody
-- **Status:** Making Symbolic Math
-- **Last updated:** 2026-10-23
+- **Status:** Done
+- **Last updated:** 2026-11-19
 
 ## Repository structure
 
